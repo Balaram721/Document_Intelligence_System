@@ -1,0 +1,16 @@
+streamlit
+pytesseract
+pdf2image
+Pillow
+spacy
+scikit-learn
+nltk
+numpy
+pandas
+datasets
+python-dotenv
+regex
+joblib
+fastjsonschema
+requests
+tqdm

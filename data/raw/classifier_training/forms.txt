@@ -1,0 +1,13 @@
+Application form for ID issuance
+Student admission form
+Medical claim form
+Employee joining form
+Registration form
+Customer feedback form
+Application request
+Exam application form
+Permission request
+HR document request form
+Vehicle permit application
+Bank KYC form
+Custom declaration form
