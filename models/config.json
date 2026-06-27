@@ -1,6 +1,0 @@
-{
-    "use_spacy_ner": false,
-    "use_rule_ner": true,
-    "classification_confidence_threshold": 0.6,
-    "max_summary_length_sentences": 5
-}
